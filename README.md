@@ -5,3 +5,4 @@ Used connection string within secret file to store credentials on my personal ma
 Connected to MongoDB cloud database where metacritic data is stored
 Created a graph comparing metacritic ratings of action and comedy movies by using keywords
 Created a graph for purposes of comparing movies from 2000 and 2020!
+Concluded that movie production or release information was very limited compared to prior years due to the pandaemic
